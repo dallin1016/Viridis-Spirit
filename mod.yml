@@ -1,6 +1,6 @@
 title: Viridis Spirit
 originalAuthor: dallin1016
-description: `Replaces Kingdom Key with Viridis Spirit, an original Keyblade belonging to @AnimeeArcade`
+description: `Replaces Kingdom Key with Viridis Spirit, an original Keyblade belonging to AnimeeArcade`
 assets:
 - name: obj/W_EX010.mdlx
   method: copy
